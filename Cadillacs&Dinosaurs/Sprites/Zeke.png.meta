@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: 062543e88fc55d34f9e7fa8e80dd2278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7121709906335554260
+    second: Zeke_0
+  - first:
+      213: -1007072090417128204
+    second: Zeke_1
+  - first:
+      213: 2407232253583319546
+    second: Zeke_2
+  - first:
+      213: -4908531250891824808
+    second: Zeke_3
+  - first:
+      213: -7148438573427012291
+    second: Zeke_4
+  - first:
+      213: -8363313869156988748
+    second: Zeke_5
+  - first:
+      213: -5223177627935181451
+    second: Zeke_6
+  - first:
+      213: -8782488721699368815
+    second: Zeke_7
+  - first:
+      213: -618213013177545920
+    second: Zeke_8
+  - first:
+      213: 3255600532498424685
+    second: Zeke_9
+  - first:
+      213: 69138754224917642
+    second: Zeke_10
+  - first:
+      213: 4987380471667901140
+    second: Zeke_11
+  - first:
+      213: -2024543340929555487
+    second: Zeke_12
+  - first:
+      213: -8751421163639437320
+    second: Zeke_13
+  - first:
+      213: 4418723498903959098
+    second: Zeke_14
+  - first:
+      213: -7715672386219870059
+    second: Zeke_15
+  - first:
+      213: -1339633989228146524
+    second: Zeke_16
+  - first:
+      213: -1219460092450305734
+    second: Zeke_17
+  - first:
+      213: -7272246333684252374
+    second: Zeke_18
+  - first:
+      213: -3291984152062482567
+    second: Zeke_19
+  - first:
+      213: 5463522662154875562
+    second: Zeke_20
+  - first:
+      213: -1009885293506430348
+    second: Zeke_21
+  - first:
+      213: -2503522757949839405
+    second: Zeke_22
+  - first:
+      213: 4297716674715659666
+    second: Zeke_23
+  - first:
+      213: -2371673875567827185
+    second: Zeke_24
+  - first:
+      213: 2709384375002205650
+    second: Zeke_25
+  - first:
+      213: -6340992501108159912
+    second: Zeke_26
+  - first:
+      213: 4850775887610797052
+    second: Zeke_27
+  - first:
+      213: 2096106152821779981
+    second: Zeke_28
+  - first:
+      213: 9056127793775023501
+    second: Zeke_29
+  - first:
+      213: -1019417889892557559
+    second: Zeke_30
+  - first:
+      213: -7700851854525083393
+    second: Zeke_31
+  - first:
+      213: -453806540466491627
+    second: Zeke_32
+  - first:
+      213: 8954655897464116647
+    second: Zeke_33
+  - first:
+      213: 8443261172075313347
+    second: Zeke_34
+  - first:
+      213: 3771035898128331078
+    second: Zeke_35
+  - first:
+      213: 8756863134089400133
+    second: Zeke_36
+  - first:
+      213: -5456682048846856054
+    second: Zeke_37
+  - first:
+      213: -3100527741459491364
+    second: Zeke_38
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zeke_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 298
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115804d8b64fd1844a4373ba9c3d30b4
+      internalID: -7121709906335554260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 308
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0bcb5d2a79c3d4bb8e4c575bd485dd
+      internalID: -1007072090417128204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 309
+        width: 165
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c24c08156c719f4aa5cd58f843c68c2
+      internalID: 2407232253583319546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 306
+        width: 157
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90910954da704341aa7b67827aec88e
+      internalID: -4908531250891824808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_4
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 306
+        width: 139
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98dda5644d21a84abaeda023077bd18
+      internalID: -7148438573427012291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 310
+        width: 165
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dfb33e87df7b04fb308e588d8a144d
+      internalID: -8363313869156988748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 161
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea35f2db6a77852499b64cdd0533c6a3
+      internalID: -5223177627935181451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 245
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e2b1e27c34ee54fa946ae02f1812c3
+      internalID: -8782488721699368815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 245
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a78ab491cd404d8a7cef625375871
+      internalID: -618213013177545920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 245
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe577c519c3a46340932f55a7d009404
+      internalID: 3255600532498424685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 245
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a925048c00f0d42842da6a50a8daa1
+      internalID: 69138754224917642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 190
+        width: 156
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ca0c08251c28a47871f121a79a1d4b
+      internalID: 4987380471667901140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 240
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db6f984fe3038b4c874004792c8f71d
+      internalID: -2024543340929555487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 240
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e436052e3defe2845869ac125ce01e70
+      internalID: -8751421163639437320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 240
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adbda09f3faddc49b9a6995d3cce683
+      internalID: 4418723498903959098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 240
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444a0905e67caa54d88df8502a198663
+      internalID: -7715672386219870059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 240
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed183b87f7e81014d9112ef4c653b81b
+      internalID: -1339633989228146524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 240
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3e8445064f00d438f6257927ee03e0
+      internalID: -1219460092450305734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_18
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 240
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a829c3cb6c72f884cbb17806a73b4113
+      internalID: -7272246333684252374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_19
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 240
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce55580b903c53d48b5728843c8a1547
+      internalID: -3291984152062482567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_20
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 240
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7440891975a6a24c941e40a6e5a3fdd
+      internalID: 5463522662154875562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 214
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a907cdd6499e4bb2bc76b41089a92
+      internalID: -1009885293506430348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_22
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 222
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a5af2b21be0c5449a79f720f0d342b
+      internalID: -2503522757949839405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_23
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 222
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18280b1fee433514494bf183bb0aa3e3
+      internalID: 4297716674715659666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_24
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 222
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ebd3a29748db45b12f46ccd066265
+      internalID: -2371673875567827185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_25
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 151
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c2321301242224fb5cebfbb71aeaaf
+      internalID: 2709384375002205650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_26
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 151
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb93ee35e40ca744a8750bb5f1155298
+      internalID: -6340992501108159912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_27
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 151
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e168157f88f8f498d6864947eac6d9
+      internalID: 4850775887610797052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 150
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ac3d4937e8f39409afff16254d1582
+      internalID: 2096106152821779981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_29
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 142
+        width: 128
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d09b5b3d5afbb7459fd7998eed38c95
+      internalID: 9056127793775023501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 68
+        width: 165
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224d09c7347ff194da93a98ebc703531
+      internalID: -1019417889892557559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 106
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5163f4d41a349f5459ac39a36852c9d7
+      internalID: -7700851854525083393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 106
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e35e41d060f4fb49a4b22d50e600175
+      internalID: -453806540466491627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 106
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ba66546f2ec6c4f90853741e0d3758
+      internalID: 8954655897464116647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 128
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41a2f1a90f36db4ba8e9194bbd05956
+      internalID: 8443261172075313347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 15
+        width: 128
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fa69ad317d8c649a0fbad639b22330
+      internalID: 3771035898128331078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_36
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 16
+        width: 128
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fd41fc2a8e65943a80948164ef6b69
+      internalID: 8756863134089400133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_37
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 13
+        width: 128
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70fd583fd1611740a9f0d12ead2feb0
+      internalID: -5456682048846856054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeke_38
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 12
+        width: 128
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e953a43e8e208459b0f506f9dc0a6c
+      internalID: -3100527741459491364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 137034f2b714b6b488326224df5b2565
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

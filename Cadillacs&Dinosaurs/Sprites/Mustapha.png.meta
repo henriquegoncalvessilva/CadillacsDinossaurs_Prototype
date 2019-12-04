@@ -1,0 +1,6775 @@
+fileFormatVersion: 2
+guid: 2990739588e8d0e4b92a976130d5125e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2837188894441723516
+    second: Mustapha_0
+  - first:
+      213: 5047325350614644943
+    second: Mustapha_1
+  - first:
+      213: -6588069023373829382
+    second: Mustapha_2
+  - first:
+      213: 4948155405802440958
+    second: Mustapha_3
+  - first:
+      213: -6046688421641422845
+    second: Mustapha_4
+  - first:
+      213: -6131520686953125065
+    second: Mustapha_5
+  - first:
+      213: 2366678483068470219
+    second: Mustapha_6
+  - first:
+      213: 8174144457365482984
+    second: Mustapha_7
+  - first:
+      213: 5572030950255505220
+    second: Mustapha_8
+  - first:
+      213: -2505109431066600776
+    second: Mustapha_9
+  - first:
+      213: -2495793838312816942
+    second: Mustapha_10
+  - first:
+      213: -3652137363313667049
+    second: Mustapha_11
+  - first:
+      213: -2767352978197697839
+    second: Mustapha_12
+  - first:
+      213: -6583838928282643751
+    second: Mustapha_13
+  - first:
+      213: 5055584604550937862
+    second: Mustapha_14
+  - first:
+      213: -1966658008210905860
+    second: Mustapha_15
+  - first:
+      213: -940387323152710636
+    second: Mustapha_16
+  - first:
+      213: 8551140663176119683
+    second: Mustapha_17
+  - first:
+      213: 7363814525053648443
+    second: Mustapha_18
+  - first:
+      213: -7643407086113075799
+    second: Mustapha_19
+  - first:
+      213: -8261722528501698814
+    second: Mustapha_20
+  - first:
+      213: -2480441521809306326
+    second: Mustapha_21
+  - first:
+      213: -7337567752724486609
+    second: Mustapha_22
+  - first:
+      213: 5578776263131666348
+    second: Mustapha_23
+  - first:
+      213: -1982062778965716328
+    second: Mustapha_24
+  - first:
+      213: 7502958764281621963
+    second: Mustapha_25
+  - first:
+      213: -2916170974997939949
+    second: Mustapha_26
+  - first:
+      213: -5590819967096051463
+    second: Mustapha_27
+  - first:
+      213: -4895053919028731279
+    second: Mustapha_28
+  - first:
+      213: 7413886821697830791
+    second: Mustapha_29
+  - first:
+      213: -1343604770974863826
+    second: Mustapha_30
+  - first:
+      213: -3993166443219519681
+    second: Mustapha_31
+  - first:
+      213: 8263757866427284864
+    second: Mustapha_32
+  - first:
+      213: 7876083269043311942
+    second: Mustapha_33
+  - first:
+      213: -1389196038128957998
+    second: Mustapha_34
+  - first:
+      213: -643960932152693158
+    second: Mustapha_35
+  - first:
+      213: 1651640356413171384
+    second: Mustapha_36
+  - first:
+      213: -8530454669931256946
+    second: Mustapha_37
+  - first:
+      213: 5663436540606262248
+    second: Mustapha_38
+  - first:
+      213: 4260927644973874318
+    second: Mustapha_39
+  - first:
+      213: 8138913235067754687
+    second: Mustapha_40
+  - first:
+      213: 5344869723162421447
+    second: Mustapha_41
+  - first:
+      213: -1575921788329087266
+    second: Mustapha_42
+  - first:
+      213: 2352343724426213835
+    second: Mustapha_43
+  - first:
+      213: -1692591022264448605
+    second: Mustapha_44
+  - first:
+      213: -8605870935960107546
+    second: Mustapha_45
+  - first:
+      213: -4604994175084933208
+    second: Mustapha_46
+  - first:
+      213: 6980604562719640473
+    second: Mustapha_47
+  - first:
+      213: 5059392182766604412
+    second: Mustapha_48
+  - first:
+      213: -5015466035747059200
+    second: Mustapha_49
+  - first:
+      213: 5007290674445747221
+    second: Mustapha_50
+  - first:
+      213: -5864726091669167043
+    second: Mustapha_51
+  - first:
+      213: -3092365607381631055
+    second: Mustapha_52
+  - first:
+      213: 3209800994851589614
+    second: Mustapha_53
+  - first:
+      213: -1080209142252978343
+    second: Mustapha_54
+  - first:
+      213: -3141865053075014332
+    second: Mustapha_55
+  - first:
+      213: 4696751266137749388
+    second: Mustapha_56
+  - first:
+      213: 5712419719270927927
+    second: Mustapha_57
+  - first:
+      213: -7003715119993961424
+    second: Mustapha_58
+  - first:
+      213: -664641612932388624
+    second: Mustapha_59
+  - first:
+      213: 5910134085799091887
+    second: Mustapha_60
+  - first:
+      213: -7008637822208913810
+    second: Mustapha_61
+  - first:
+      213: 8134228670087760484
+    second: Mustapha_62
+  - first:
+      213: 350464804505449668
+    second: Mustapha_63
+  - first:
+      213: -2608239213422862717
+    second: Mustapha_64
+  - first:
+      213: -7104425580533162457
+    second: Mustapha_65
+  - first:
+      213: 4505053669219971121
+    second: Mustapha_66
+  - first:
+      213: 1141710777049885623
+    second: Mustapha_67
+  - first:
+      213: -5588504208076964374
+    second: Mustapha_68
+  - first:
+      213: 2798887934516996640
+    second: Mustapha_69
+  - first:
+      213: -791562774446068273
+    second: Mustapha_70
+  - first:
+      213: 1665511529197164207
+    second: Mustapha_71
+  - first:
+      213: 932534182592581850
+    second: Mustapha_72
+  - first:
+      213: -6089530194865426373
+    second: Mustapha_73
+  - first:
+      213: -8472390678714643755
+    second: Mustapha_74
+  - first:
+      213: 2889572788224477322
+    second: Mustapha_75
+  - first:
+      213: -7849778303063709435
+    second: Mustapha_76
+  - first:
+      213: 2158273295969158125
+    second: Mustapha_77
+  - first:
+      213: 3462382269062843124
+    second: Mustapha_78
+  - first:
+      213: 1674516892841286753
+    second: Mustapha_79
+  - first:
+      213: -123237450896659590
+    second: Mustapha_80
+  - first:
+      213: -8654936490552166926
+    second: Mustapha_81
+  - first:
+      213: 1711560783614142473
+    second: Mustapha_82
+  - first:
+      213: 8239769163950159905
+    second: Mustapha_83
+  - first:
+      213: -7478432052096510392
+    second: Mustapha_84
+  - first:
+      213: -3188408228340081930
+    second: Mustapha_85
+  - first:
+      213: 5430834131922045933
+    second: Mustapha_86
+  - first:
+      213: 7095381799159792694
+    second: Mustapha_87
+  - first:
+      213: 3198811648573051984
+    second: Mustapha_88
+  - first:
+      213: 6354144106140649912
+    second: Mustapha_89
+  - first:
+      213: -8448004225827178362
+    second: Mustapha_90
+  - first:
+      213: -2845534470452978
+    second: Mustapha_91
+  - first:
+      213: 1219088394309310954
+    second: Mustapha_92
+  - first:
+      213: 1424884995590759063
+    second: Mustapha_93
+  - first:
+      213: -3362004347887244866
+    second: Mustapha_94
+  - first:
+      213: -4810177516165013160
+    second: Mustapha_95
+  - first:
+      213: -8239474341616393251
+    second: Mustapha_96
+  - first:
+      213: -3318089450521943436
+    second: Mustapha_97
+  - first:
+      213: 7558787719680744373
+    second: Mustapha_98
+  - first:
+      213: 8258880877517800920
+    second: Mustapha_99
+  - first:
+      213: 7004425839534834923
+    second: Mustapha_100
+  - first:
+      213: 5767412010553554307
+    second: Mustapha_101
+  - first:
+      213: -173554958798900030
+    second: Mustapha_102
+  - first:
+      213: -28298770849270569
+    second: Mustapha_103
+  - first:
+      213: -94646398560863435
+    second: Mustapha_104
+  - first:
+      213: 6970260139766742148
+    second: Mustapha_105
+  - first:
+      213: -294649230295755212
+    second: Mustapha_106
+  - first:
+      213: -2794066450096258275
+    second: Mustapha_107
+  - first:
+      213: 8608994838959491855
+    second: Mustapha_108
+  - first:
+      213: -1974021526919863607
+    second: Mustapha_109
+  - first:
+      213: 1924741714894791824
+    second: Mustapha_110
+  - first:
+      213: -8893474289496541020
+    second: Mustapha_111
+  - first:
+      213: 8661510529923830666
+    second: Mustapha_112
+  - first:
+      213: -559348030433206608
+    second: Mustapha_113
+  - first:
+      213: 8354619929903258654
+    second: Mustapha_114
+  - first:
+      213: 8738324348150943681
+    second: Mustapha_115
+  - first:
+      213: -1146460184227572259
+    second: Mustapha_116
+  - first:
+      213: 7241365609735096082
+    second: Mustapha_117
+  - first:
+      213: 6079982482427214745
+    second: Mustapha_118
+  - first:
+      213: -1909137181675029803
+    second: Mustapha_119
+  - first:
+      213: 7721310190339431889
+    second: Mustapha_120
+  - first:
+      213: -485192433373277204
+    second: Mustapha_121
+  - first:
+      213: 8981463633867595619
+    second: Mustapha_122
+  - first:
+      213: -8831826911874532964
+    second: Mustapha_123
+  - first:
+      213: -1140943964080165537
+    second: Mustapha_124
+  - first:
+      213: 5901911110937831140
+    second: Mustapha_125
+  - first:
+      213: -2950686030672154227
+    second: Mustapha_126
+  - first:
+      213: 2650545115899672005
+    second: Mustapha_127
+  - first:
+      213: -3152763265377459801
+    second: Mustapha_128
+  - first:
+      213: 3599946212369841631
+    second: Mustapha_129
+  - first:
+      213: -8712959515266836310
+    second: Mustapha_130
+  - first:
+      213: 2037995730869670997
+    second: Mustapha_131
+  - first:
+      213: 8304229782060930946
+    second: Mustapha_132
+  - first:
+      213: 1798665450796340519
+    second: Mustapha_133
+  - first:
+      213: -3283793152286493089
+    second: Mustapha_134
+  - first:
+      213: 4229860199529954736
+    second: Mustapha_135
+  - first:
+      213: 7860852690935459817
+    second: Mustapha_136
+  - first:
+      213: 3035642513355240844
+    second: Mustapha_137
+  - first:
+      213: -5702413227412652612
+    second: Mustapha_138
+  - first:
+      213: 9074122383581211891
+    second: Mustapha_139
+  - first:
+      213: 8642382093255968029
+    second: Mustapha_140
+  - first:
+      213: 3867656664610723192
+    second: Mustapha_141
+  - first:
+      213: 4865525622831767892
+    second: Mustapha_142
+  - first:
+      213: -8113225726239930264
+    second: Mustapha_143
+  - first:
+      213: -3291919052979998584
+    second: Mustapha_144
+  - first:
+      213: -7955863112304087255
+    second: Mustapha_145
+  - first:
+      213: -6293217682407029367
+    second: Mustapha_146
+  - first:
+      213: 7152869740036538449
+    second: Mustapha_147
+  - first:
+      213: 8200914788649647146
+    second: Mustapha_148
+  - first:
+      213: -1958867694681278604
+    second: Mustapha_149
+  - first:
+      213: -2434679561868533624
+    second: Mustapha_150
+  - first:
+      213: 4858344486176562710
+    second: Mustapha_151
+  - first:
+      213: 432365431527369857
+    second: Mustapha_152
+  - first:
+      213: 5280678733851061744
+    second: Mustapha_153
+  - first:
+      213: -5792881018392256291
+    second: Mustapha_154
+  - first:
+      213: 4320388942944191258
+    second: Mustapha_155
+  - first:
+      213: 2027428099472547583
+    second: Mustapha_156
+  - first:
+      213: -4079147025442334176
+    second: Mustapha_157
+  - first:
+      213: -4271585796269735499
+    second: Mustapha_158
+  - first:
+      213: 6852430593554610898
+    second: Mustapha_159
+  - first:
+      213: -3376555930872980060
+    second: Mustapha_160
+  - first:
+      213: 1734489550342336558
+    second: Mustapha_161
+  - first:
+      213: 381456144723045447
+    second: Mustapha_162
+  - first:
+      213: 1738927508008661891
+    second: Mustapha_163
+  - first:
+      213: 105666529767893436
+    second: Mustapha_164
+  - first:
+      213: -5578471426222858663
+    second: Mustapha_165
+  - first:
+      213: -1372051792446627077
+    second: Mustapha_166
+  - first:
+      213: 881015526206113334
+    second: Mustapha_167
+  - first:
+      213: -5053984315017796091
+    second: Mustapha_168
+  - first:
+      213: -3751924106889553452
+    second: Mustapha_169
+  - first:
+      213: -3758255633721147792
+    second: Mustapha_170
+  - first:
+      213: 7984828479262434215
+    second: Mustapha_171
+  - first:
+      213: 5277123028713013014
+    second: Mustapha_172
+  - first:
+      213: -1810407627051483357
+    second: Mustapha_173
+  - first:
+      213: -1665565055010165396
+    second: Mustapha_174
+  - first:
+      213: 269319082812505373
+    second: Mustapha_175
+  - first:
+      213: 6169001771827493723
+    second: Mustapha_176
+  - first:
+      213: 1820397530043413461
+    second: Mustapha_177
+  - first:
+      213: -7742266957292548480
+    second: Mustapha_178
+  - first:
+      213: 844658327795503024
+    second: Mustapha_179
+  - first:
+      213: 1561070048522570768
+    second: Mustapha_180
+  - first:
+      213: 1427000392812404700
+    second: Mustapha_181
+  - first:
+      213: 5399149646104180519
+    second: Mustapha_182
+  - first:
+      213: 5598533245859524529
+    second: Mustapha_183
+  - first:
+      213: 4782756233000515831
+    second: Mustapha_184
+  - first:
+      213: 3013233381844286283
+    second: Mustapha_185
+  - first:
+      213: 5138821087478186903
+    second: Mustapha_186
+  - first:
+      213: -3922732719545004121
+    second: Mustapha_187
+  - first:
+      213: 3419028455531081127
+    second: Mustapha_188
+  - first:
+      213: -9215513567081994513
+    second: Mustapha_189
+  - first:
+      213: 4004478515199615297
+    second: Mustapha_190
+  - first:
+      213: -5183903435314347659
+    second: Mustapha_191
+  - first:
+      213: -241561306724380490
+    second: Mustapha_192
+  - first:
+      213: -4075564375658805405
+    second: Mustapha_193
+  - first:
+      213: -2516750503671002942
+    second: Mustapha_194
+  - first:
+      213: -6606376255737816824
+    second: Mustapha_195
+  - first:
+      213: -2236922402345872065
+    second: Mustapha_196
+  - first:
+      213: -8226988720479254370
+    second: Mustapha_197
+  - first:
+      213: 4681268846878731574
+    second: Mustapha_198
+  - first:
+      213: -7618759172761249486
+    second: Mustapha_199
+  - first:
+      213: -7688224128147724775
+    second: Mustapha_200
+  - first:
+      213: -748266680113626769
+    second: Mustapha_201
+  - first:
+      213: -1759245068542828046
+    second: Mustapha_202
+  - first:
+      213: -7824883922098032543
+    second: Mustapha_203
+  - first:
+      213: 5993600892210760394
+    second: Mustapha_204
+  - first:
+      213: -5545300924485755088
+    second: Mustapha_205
+  - first:
+      213: -8295807306037040328
+    second: Mustapha_206
+  - first:
+      213: -7853473311122274621
+    second: Mustapha_207
+  - first:
+      213: -2965321241082753980
+    second: Mustapha_208
+  - first:
+      213: -377358581194182356
+    second: Mustapha_209
+  - first:
+      213: -6916337394635917310
+    second: Mustapha_210
+  - first:
+      213: -1108608527243437384
+    second: Mustapha_211
+  - first:
+      213: 2832925529665102956
+    second: Mustapha_212
+  - first:
+      213: -7439828718001775081
+    second: Mustapha_213
+  - first:
+      213: -8223013636630924265
+    second: Mustapha_214
+  - first:
+      213: 7565012607236937004
+    second: Mustapha_215
+  - first:
+      213: -1143609821048009927
+    second: Mustapha_216
+  - first:
+      213: -1176966967069800980
+    second: Mustapha_217
+  - first:
+      213: -7374923396722110455
+    second: Mustapha_218
+  - first:
+      213: -4794701152566065486
+    second: Mustapha_219
+  - first:
+      213: -6667593318651719839
+    second: Mustapha_220
+  - first:
+      213: 4699845732133222814
+    second: Mustapha_221
+  - first:
+      213: -8338531982816762477
+    second: Mustapha_222
+  - first:
+      213: 557473318859354412
+    second: Mustapha_223
+  - first:
+      213: 8353988854447908880
+    second: Mustapha_224
+  - first:
+      213: -5066195676574581068
+    second: Mustapha_225
+  - first:
+      213: -3118332520560253586
+    second: Mustapha_226
+  - first:
+      213: -1867849023923005998
+    second: Mustapha_227
+  - first:
+      213: -3698827492882091566
+    second: Mustapha_228
+  - first:
+      213: -5101353155682962385
+    second: Mustapha_229
+  - first:
+      213: -2618849175874042727
+    second: Mustapha_230
+  - first:
+      213: -4101296245668550188
+    second: Mustapha_231
+  - first:
+      213: -5865433018289817305
+    second: Mustapha_232
+  - first:
+      213: -9171721780031219550
+    second: Mustapha_233
+  - first:
+      213: 1677468191535525779
+    second: Mustapha_234
+  - first:
+      213: 995050292931554459
+    second: Mustapha_235
+  - first:
+      213: -6354948685683514878
+    second: Mustapha_236
+  - first:
+      213: -7945003840666301720
+    second: Mustapha_237
+  - first:
+      213: 3670749886002811651
+    second: Mustapha_238
+  - first:
+      213: 8153676363825482120
+    second: Mustapha_239
+  - first:
+      213: -6368027314286775506
+    second: Mustapha_240
+  - first:
+      213: 1878121256243982749
+    second: Mustapha_241
+  - first:
+      213: -5856355879906186614
+    second: Mustapha_242
+  - first:
+      213: -2785496177375172850
+    second: Mustapha_243
+  - first:
+      213: 5150054999390808628
+    second: Mustapha_244
+  - first:
+      213: 3352887517131455246
+    second: Mustapha_245
+  - first:
+      213: 2234634197795152407
+    second: Mustapha_246
+  - first:
+      213: 6641279674101019395
+    second: Mustapha_247
+  - first:
+      213: 8994395301674250949
+    second: Mustapha_248
+  - first:
+      213: 276762971958705071
+    second: Mustapha_249
+  - first:
+      213: -8293550356047169981
+    second: Mustapha_250
+  - first:
+      213: -8161289766417789320
+    second: Mustapha_251
+  - first:
+      213: -2827841004837644042
+    second: Mustapha_252
+  - first:
+      213: -7548512529057710142
+    second: Mustapha_253
+  - first:
+      213: -5430891256425480998
+    second: Mustapha_254
+  - first:
+      213: -5643799598801175657
+    second: Mustapha_255
+  - first:
+      213: -6159475358240125060
+    second: Mustapha_256
+  - first:
+      213: -2632864522957909542
+    second: Mustapha_257
+  - first:
+      213: 6791690459486815352
+    second: Mustapha_258
+  - first:
+      213: -9205650904626321694
+    second: Mustapha_259
+  - first:
+      213: -8579189484764546820
+    second: Mustapha_260
+  - first:
+      213: -5525262204977477939
+    second: Mustapha_261
+  - first:
+      213: 6548864763033398786
+    second: Mustapha_262
+  - first:
+      213: -2008018857821213449
+    second: Mustapha_263
+  - first:
+      213: 1263012054986846393
+    second: Mustapha_264
+  - first:
+      213: 8880016986723114226
+    second: Mustapha_265
+  - first:
+      213: 6250877617718894539
+    second: Mustapha_266
+  - first:
+      213: -4895129582153642955
+    second: Mustapha_267
+  - first:
+      213: 1543517535191876145
+    second: Mustapha_268
+  - first:
+      213: -3233592625872696189
+    second: Mustapha_269
+  - first:
+      213: -7700610383134344009
+    second: Mustapha_270
+  - first:
+      213: -8525234962605272607
+    second: Mustapha_271
+  - first:
+      213: -6654380205676330962
+    second: Mustapha_272
+  - first:
+      213: 2258110064105298810
+    second: Mustapha_273
+  - first:
+      213: -4509755306417249608
+    second: Mustapha_274
+  - first:
+      213: -3029377148056990547
+    second: Mustapha_275
+  - first:
+      213: -8876070473359870226
+    second: Mustapha_276
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mustapha_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2379
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0850e097cc9b9b4b8ce78654e3c660a
+      internalID: -2837188894441723516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2379
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c69746102a518c429bbc36d54ea99b5
+      internalID: 5047325350614644943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2379
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f35982f552dc754f8c4f185662cff87
+      internalID: -6588069023373829382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2379
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e86c4f4e02d67478ccb148b4da7a9a
+      internalID: 4948155405802440958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2379
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48335e49f7ecf814387ed51a258c2fe3
+      internalID: -6046688421641422845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2379
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fc3bbfacb01ef43953e3c294f03927
+      internalID: -6131520686953125065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2381
+        width: 29
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2b60845c39b4949a60ee03929f41cc
+      internalID: 2366678483068470219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2381
+        width: 30
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c438be047b512fa429d451c0f882e1aa
+      internalID: 8174144457365482984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2381
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c17a330ea1d8b41a77c3fa5adf6ad5
+      internalID: 5572030950255505220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_9
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2381
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4879c09238fe0bb44bdc0bd246c5ad52
+      internalID: -2505109431066600776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_10
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2381
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c11a2e272085f4cac68c82da5f94c5
+      internalID: -2495793838312816942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2381
+        width: 30
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128caa0289b697f43966f722eba994a4
+      internalID: -3652137363313667049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 2381
+        width: 33
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce0996511d303e49bb4dc5e8b6f0789
+      internalID: -2767352978197697839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2381
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a22b0022ecb044e850fba0b8ec04f7
+      internalID: -6583838928282643751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_14
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2380
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5495fac4a428af44987a0b0c34c9e6e3
+      internalID: 5055584604550937862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_15
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2380
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6089ed65f728a3f4cb12c19d8292520a
+      internalID: -1966658008210905860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_16
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2380
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5214880caae8c2438531ac1183cf605
+      internalID: -940387323152710636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_17
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2371
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548f44b89a5dd5541ae2672854672054
+      internalID: 8551140663176119683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2298
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4972416b4e7414aa9cf66c0859b3b3
+      internalID: 7363814525053648443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2300
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012d83931ab2eff4395108ea476c4d4a
+      internalID: -7643407086113075799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2299
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79881a93ea61d5b41b3885f902343745
+      internalID: -8261722528501698814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2298
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813e3bcb0f233aa41a44583e8376c0e0
+      internalID: -2480441521809306326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_22
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2295
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3138e1d7a2e9d8845b67a4a1a6f78174
+      internalID: -7337567752724486609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_23
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2295
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af8c253adf73594a921a30664ebaab2
+      internalID: 5578776263131666348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_24
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2295
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e6ea751fcf4f04c9f9e5e7aef7f377
+      internalID: -1982062778965716328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_25
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2295
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3947eb27ade7c824dba3d69296d97018
+      internalID: 7502958764281621963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_26
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2305
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a1c03b775d1ed43bb1090b546cf15d
+      internalID: -2916170974997939949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_27
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2295
+        width: 77
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ea41b3c18a4ba47ac175a701387fc2
+      internalID: -5590819967096051463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2187
+        width: 41
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf8049208eae7a4e949702083effb34
+      internalID: -4895053919028731279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2219
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c73b031881efe240894eaa67eea2b92
+      internalID: 7413886821697830791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2235
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6199ae7095f334898b144e184a71d0
+      internalID: -1343604770974863826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_31
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2188
+        width: 41
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3d25a258f43684893f0dde9267a183
+      internalID: -3993166443219519681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_32
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2218
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438e29cd8b5dfa74cb529e3e9aa45c95
+      internalID: 8263757866427284864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_33
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2210
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a8bc9273bc6d49bfd2b0d9213f38a
+      internalID: 7876083269043311942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2205
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d90a83ab9faeee4fb6e91ab03d7b997
+      internalID: -1389196038128957998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2209
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb960af66d88bf438be8b95044ea063
+      internalID: -643960932152693158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_36
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2201
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4780db7584ab042bed0b1313f41fd8
+      internalID: 1651640356413171384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_37
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2204
+        width: 47
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841e44a484f6ce1448c1eb6d3f584ad1
+      internalID: -8530454669931256946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_38
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2204
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19e6799fd961794d82baa1fa3ba7339
+      internalID: 5663436540606262248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_39
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2200
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a5b13d5b7673d4988abb568dc2a8c2
+      internalID: 4260927644973874318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_40
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2205
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f4e5304cd902441943a8e2105e25b7
+      internalID: 8138913235067754687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_41
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2222
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d98d5962bc195c419007c0701e03e31
+      internalID: 5344869723162421447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2184
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb921739c9dbe1499f06d4f6a3d9f32
+      internalID: -1575921788329087266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2114
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da9338a68530d24e8ec342e16a8825b
+      internalID: 2352343724426213835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2117
+        width: 115
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e2b6f88e786324292dac789dfb91ff
+      internalID: -1692591022264448605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2119
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcf02a38d446a6419698951a32abaa0
+      internalID: -8605870935960107546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_46
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2112
+        width: 99
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a903ac1d61d6f8e4e82ef99ecaa6bcf3
+      internalID: -4604994175084933208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2112
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46f867460f71d24ba3da73fe39ccea6
+      internalID: 6980604562719640473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_48
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2112
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f749ce30fd8f3a4cb07db0745990748
+      internalID: 5059392182766604412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_49
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2123
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d6a09bd6904294088bbd8d200f9e32
+      internalID: -5015466035747059200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2117
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0b6d8d95a2b774f92fad6f572e351c
+      internalID: 5007290674445747221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_51
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2013
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e060800ac624c848ac2b5b87da280ee
+      internalID: -5864726091669167043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2020
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591ad9bfc13569244a460f74c83ed0f7
+      internalID: -3092365607381631055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2020
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef09baed8100ca40980218c90f62082
+      internalID: 3209800994851589614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_54
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2024
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81335fdb7143978479cf406b584b4d3f
+      internalID: -1080209142252978343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_55
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2022
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f029b9c3f8a3c847b4dcc49fd213064
+      internalID: -3141865053075014332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_56
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2024
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6dbf9f03da3794f88419083ed7d498
+      internalID: 4696751266137749388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_57
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2024
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66c704c8bd53204e8501e5358f4ed7f
+      internalID: 5712419719270927927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_58
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2024
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0719b1d810405f2499948877ce0029f2
+      internalID: -7003715119993961424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_59
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2020
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f87a8d2d6e0c44925975d0333e082
+      internalID: -664641612932388624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_60
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2019
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e10418cf86967499f05212cef67486
+      internalID: 5910134085799091887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_61
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2020
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed8ac04bf3782468b05197a1e2ee95
+      internalID: -7008637822208913810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1913
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f44c4d28c636646923e02f0388b65f
+      internalID: 8134228670087760484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_63
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1913
+        width: 99
+        height: 86
+      alignment: 9
+      pivot: {x: 0.35, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422dd8ad4625c7242b5d9262612005cb
+      internalID: 350464804505449668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_64
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1912
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1f3b68b68ff1f419a94108a16e6c8f
+      internalID: -2608239213422862717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_65
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1911
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efacd391cae5b3045bc3da668f5162ce
+      internalID: -7104425580533162457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_66
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1908
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7584ce9de2c1aa44da13aa0becb7db36
+      internalID: 4505053669219971121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_67
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1908
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24218db2d8e75064ea6fd849784da74a
+      internalID: 1141710777049885623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_68
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1907
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c7b4f4ef1de4d43b506aae1e47a09e
+      internalID: -5588504208076964374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_69
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1907
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208a45d93aab95f49a63f591c4fa3273
+      internalID: 2798887934516996640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_70
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1907
+        width: 99
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe4ca27a0bdd5448a30a9c0aa6f370
+      internalID: -791562774446068273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_71
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1907
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352bd948de94fb54f96f135aa33ae908
+      internalID: 1665511529197164207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_72
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1911
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8a915a300bd5c46a72b42a4ab8d5a5
+      internalID: 932534182592581850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1813
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd854373e8ccc124e9f33a8b1875c7a3
+      internalID: -6089530194865426373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1830
+        width: 111
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9d6f64f468ee24fad4ecfa5b28d2ee
+      internalID: -8472390678714643755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_75
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1830
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57775d1225e50614599a835ca4a0149a
+      internalID: 2889572788224477322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_76
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1829
+        width: 111
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec0e85f548d9124baa7171fe8f44316
+      internalID: -7849778303063709435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_77
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1814
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56dba24ac352f5449d73d7fe5c13c3d
+      internalID: 2158273295969158125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_78
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1814
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c45b2836a54f3468d1c9b558c9436d
+      internalID: 3462382269062843124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_79
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1783
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee040e596680424381322b3f331778e
+      internalID: 1674516892841286753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_80
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1783
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd560b7e50c2b03478b976796a9a457e
+      internalID: -123237450896659590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_81
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1784
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e85ffea6662d4187c68608e452530
+      internalID: -8654936490552166926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_82
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1781
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2027a7d1cc80f46a2bf21bf13bb4bf
+      internalID: 1711560783614142473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_83
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1779
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeab4ad3e0d2e2409909ca677270146
+      internalID: 8239769163950159905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_84
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1777
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e7e7e7f03622447a2342fdc157b29d
+      internalID: -7478432052096510392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_85
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1779
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f53fb157eb2dc438b58cf03c432808
+      internalID: -3188408228340081930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_86
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1816
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2494a9efe3daba34794601ac663bbad0
+      internalID: 5430834131922045933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1703
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d29b0dc1218fff43a020bbfc0cc4592
+      internalID: 7095381799159792694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_88
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1704
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d2542c3202de4e8e6febe4e1240d7
+      internalID: 3198811648573051984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_89
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1704
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb957235109d56b4fae1f7d9a128009f
+      internalID: 6354144106140649912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_90
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1785
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88474a41eee5244490247a591ed82b8
+      internalID: -8448004225827178362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_91
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1703
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed58bf1f3a4ceee40ab81bb778893789
+      internalID: -2845534470452978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_92
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1703
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a1fccd35aec1f4eb38ddfe7b017423
+      internalID: 1219088394309310954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_93
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1702
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ce59a9f92ce54087db458b5f7c3bc
+      internalID: 1424884995590759063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_94
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1703
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e063085a62c5541bfa008b9c6d41e4
+      internalID: -3362004347887244866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_95
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1701
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cf07ddc48720948a91a21f1f0845d1
+      internalID: -4810177516165013160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_96
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1739
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b2425c44ef00048b105165f72f1090
+      internalID: -8239474341616393251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_97
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1740
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ea0c8e5c6a954d9786ca0c8d29385
+      internalID: -3318089450521943436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_98
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1740
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8555d8dff44b2ba4c8f5dc38ecd4e426
+      internalID: 7558787719680744373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_99
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1713
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4e7830e8c5e98498942c0cde5e0097
+      internalID: 8258880877517800920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_100
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1598
+        width: 127
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b39ad74991d3194abc8fe78554551ad
+      internalID: 7004425839534834923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_101
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1709
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a594c4d95de8c4395d2fc361b8e265
+      internalID: 5767412010553554307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_102
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1709
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1863a77005c535c4cb8ecdc0db965b19
+      internalID: -173554958798900030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_103
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1613
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79cadfd7417eef4fab704dfe6795e1c
+      internalID: -28298770849270569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_104
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1613
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee5de5f9865d2a43ad9930d8a110bd4
+      internalID: -94646398560863435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_105
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1611
+        width: 101
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0589aab7f4c9844b3b9123bf18f808
+      internalID: 6970260139766742148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_106
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1613
+        width: 102
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6afa860ab6afa44caebdf9904874330
+      internalID: -294649230295755212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_107
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1611
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22130c4fb93a7384fa547ad0b5eb313d
+      internalID: -2794066450096258275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_108
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1610
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d5d8f06b6edf4087364d571493b8c
+      internalID: 8608994838959491855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_109
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1604
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea812c5e5cd6084daa7b8ce416893bc
+      internalID: -1974021526919863607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_110
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1685
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1c0140797e0614e8bf9b0826fc1157
+      internalID: 1924741714894791824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_111
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1685
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a32c082b627946458d40a6767e5b130
+      internalID: -8893474289496541020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_112
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1643
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf08280d31d14243961503a071aa024
+      internalID: 8661510529923830666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_113
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1661
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79143a12d57604f96bae84240e000e
+      internalID: -559348030433206608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_114
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1661
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ae3a246248c4b48b1acaf79d9d6c28
+      internalID: 8354619929903258654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_115
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1661
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dab6ac05e3e9d645b5cbd8242e035c1
+      internalID: 8738324348150943681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_116
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1637
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4040b048586ff47adae296d5361478
+      internalID: -1146460184227572259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_117
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1637
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad20cc1818096804f83d843e84e27ccb
+      internalID: 7241365609735096082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_118
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1637
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e87dece8f1ece4fb9087007487569b
+      internalID: 6079982482427214745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_119
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1599
+        width: 129
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624cd5fc8d95c104e908312ef949f84c
+      internalID: -1909137181675029803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_120
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1516
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1275fd0fd67244f919eb9ec5296c56
+      internalID: 7721310190339431889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_121
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1522
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd84b0290b78f5245bb65b6c6f660f2f
+      internalID: -485192433373277204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_122
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1528
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54eca75720ff0243b3b3d09be67fe08
+      internalID: 8981463633867595619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_123
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1516
+        width: 109
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d703c400eec3cea47bb7e5c835a2892c
+      internalID: -8831826911874532964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_124
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1515
+        width: 114
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c0d76de29772f429538dbbd6cd3208
+      internalID: -1140943964080165537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_125
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1515
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd9ce8cb65137a488ca9689cfefa7b8
+      internalID: 5901911110937831140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_126
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1516
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a37ced62b309547b2b0b5ea57ecd7c
+      internalID: -2950686030672154227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_127
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1514
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d12238755c0682489ffdcf63498ec36
+      internalID: 2650545115899672005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_128
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1517
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd08bae14916f4e8143b133b25dc73
+      internalID: -3152763265377459801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_129
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1510
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9415668f94c7d6148b059a5300123eb1
+      internalID: 3599946212369841631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_130
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1494
+        width: 223
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480caadc90581c346924c245f1b0164f
+      internalID: -8712959515266836310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_131
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1423
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c82b6d3d41cbdb4c9402bcf2f94448f
+      internalID: 2037995730869670997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_132
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1418
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89091baeef5b48d4981d5bb2d33053e8
+      internalID: 8304229782060930946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_133
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1417
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5e26a1c4810ed49b0ed306810841cf
+      internalID: 1798665450796340519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_134
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1416
+        width: 131
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a983445e4a891f44b5b76a3f68a7df0
+      internalID: -3283793152286493089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_135
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1417
+        width: 36
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514bcc6d3bd87c346bfdf715384f648b
+      internalID: 4229860199529954736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_136
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1417
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d822bd88ca4074a8a88f597567263e
+      internalID: 7860852690935459817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_137
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1412
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eaf0080bbc03f4e95ca38b3a100b78
+      internalID: 3035642513355240844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_138
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1415
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f67a3d744029341b94443284e24d74
+      internalID: -5702413227412652612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_139
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1415
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6385fb3df8f836046b48d286f66d4ece
+      internalID: 9074122383581211891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_140
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1415
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381658d3697d2c741abbb3576a48b903
+      internalID: 8642382093255968029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_141
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1412
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff9df4a2c57f9e4ab28c8a2b68bed8b
+      internalID: 3867656664610723192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_142
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1323
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb0f6697e5131439284da090bce6b2
+      internalID: 4865525622831767892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_143
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1323
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d52eb19e77818c4691e18a66377001d
+      internalID: -8113225726239930264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_144
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1323
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceef7aa653ceed4e8f35c6bb6e4816e
+      internalID: -3291919052979998584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_145
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1323
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff3a4d9ad1755640acfb9f73855ff2c
+      internalID: -7955863112304087255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_146
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1323
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a97982ad9e74d045a13e9446b8fb10e
+      internalID: -6293217682407029367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_147
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1323
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814e61a35c3de2c4884c1887124c8b36
+      internalID: 7152869740036538449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_148
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1323
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacc86b68dabdcb4eb513a146751969d
+      internalID: 8200914788649647146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_149
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1323
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f3909332834c429bb57eaa0180e6e
+      internalID: -1958867694681278604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_150
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1323
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048178faf0c2afc42b536567a348b31b
+      internalID: -2434679561868533624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_151
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1226
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42472d8ee7f4c3a4dac5eca103cc1c5a
+      internalID: 4858344486176562710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_152
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1226
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faee6b6d4f94b340b528384d5863de0
+      internalID: 432365431527369857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_153
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1228
+        width: 42
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32216b89e2508ca479ebacda5ec85f85
+      internalID: 5280678733851061744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_154
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1228
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c4c4b683699fc4eb4354cc460e1265
+      internalID: -5792881018392256291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_155
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1228
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d2abb204b13f4f84ed13ba37a9c3a
+      internalID: 4320388942944191258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_156
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1228
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfd9c1d31a7c1e4e80f2c6b103edef9
+      internalID: 2027428099472547583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_157
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1228
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9dda2a260ab734ead558f178611007
+      internalID: -4079147025442334176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_158
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1228
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9139c82800d490e4987505d56acca6e2
+      internalID: -4271585796269735499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_159
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1228
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc1b7b0634f40949b87fa2fd7c74ee1
+      internalID: 6852430593554610898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_160
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1228
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da4cc76cc627ca4fab61202efbe54fb
+      internalID: -3376555930872980060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_161
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1228
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638d21be11ac2714284a02fdcdad57d0
+      internalID: 1734489550342336558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_162
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1228
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43801cb5f25e9a649aeeb094339034f6
+      internalID: 381456144723045447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_163
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1228
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f15e87ac0d8334eaa9d0d2ab718fa9
+      internalID: 1738927508008661891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_164
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1228
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfd2ea2c325bc140b4628729feb07e8
+      internalID: 105666529767893436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_165
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1228
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d102dfbcfd6574498b8b72476618965
+      internalID: -5578471426222858663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_166
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1224
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578e8622a6d1cfb469f7fe0ad556a1aa
+      internalID: -1372051792446627077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_167
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1225
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d0c9349e848c94785e1bcff307c454
+      internalID: 881015526206113334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_168
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1225
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18a911ce2be9e14ab581588759babc2
+      internalID: -5053984315017796091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_169
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1121
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e41e3bbaa428f44a3376fe0f865092
+      internalID: -3751924106889553452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_170
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1121
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1df373ede48f8b45b98109ba6cdd0f6
+      internalID: -3758255633721147792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_171
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1123
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed36f250e4d5f7c49a888649262aa5c3
+      internalID: 7984828479262434215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_172
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1123
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fffa17befd6ef4c807880cae6f7396
+      internalID: 5277123028713013014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_173
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1024
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf66494b5025be4d99fda48260f870e
+      internalID: -1810407627051483357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_174
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1024
+        width: 107
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0299df05012d449bfdc2aacbefcfec
+      internalID: -1665565055010165396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d7dec9aabc81b41a4bcc12906447c4
+      internalID: 269319082812505373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_176
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 931
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d48d1f1d4580447a1e64c38b4dcf19
+      internalID: 6169001771827493723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_177
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 933
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cf94bf27f426c4e9c33a1d9db507aa
+      internalID: 1820397530043413461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_178
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 933
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587b974e92278f648a8de094d8521de4
+      internalID: -7742266957292548480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_179
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 933
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f02dbfa8a742442af03404acdf3419
+      internalID: 844658327795503024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_180
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 933
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53da8356a834f4194ce1c1077d6c6b
+      internalID: 1561070048522570768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_181
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 933
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474026316b94a54f96fbcd5ef9353a9
+      internalID: 1427000392812404700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_182
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 933
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb6b47c907c1a142903b769e3228a9a
+      internalID: 5399149646104180519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_183
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 933
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b1a4b246491d8448853c80aebe6b29
+      internalID: 5598533245859524529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_184
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 933
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a05e09f62684a84290def4c937520c0
+      internalID: 4782756233000515831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_185
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 933
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236210703163fd9409757e3436a0d62f
+      internalID: 3013233381844286283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_186
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 933
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a345738b0769445419309a38d0d6747d
+      internalID: 5138821087478186903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_187
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 933
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0889efe9841d5974d95f6345d650f102
+      internalID: -3922732719545004121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_188
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 842
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8380facf9379b9c45b71e57c9aa1bc91
+      internalID: 3419028455531081127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_189
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 842
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889c1cf174683fc459061ee645ffceac
+      internalID: -9215513567081994513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_190
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 842
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7b385354620d24d872982f745b2e2f
+      internalID: 4004478515199615297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_191
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 842
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac16fdbb8c86945a763fcae96aae3d
+      internalID: -5183903435314347659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_192
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 842
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde42e619ebf7a4d93397730e4aa232
+      internalID: -241561306724380490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_193
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 842
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d48d0642f8f7f40805a2d66edc5a5c
+      internalID: -4075564375658805405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_194
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 842
+        width: 99
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8af21af3411194e9ef88c6a7c5cdcc
+      internalID: -2516750503671002942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_195
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 843
+        width: 103
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfa7d3f1c994ad40942ca6365e35a70
+      internalID: -6606376255737816824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_196
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 756
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69cf0b745a929c469926e9479480d7a
+      internalID: -2236922402345872065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_197
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 756
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cae58b600e17044b220cef1cd603cd
+      internalID: -8226988720479254370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_198
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 756
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edbeae5dfb660049bebf328684a2c67
+      internalID: 4681268846878731574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_199
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 756
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d5dd906d0c6f14aa3885a6a33cc5c3
+      internalID: -7618759172761249486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_200
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 756
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1fe25b78158f5499ae76bcb389ca71
+      internalID: -7688224128147724775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_201
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 663
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce79f3a13152ff48b912bd66a55499d
+      internalID: -748266680113626769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_202
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 663
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db141d9aaeebdba458898d1f8d08a89b
+      internalID: -1759245068542828046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_203
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 663
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ace26e540f095439c69e15403de210
+      internalID: -7824883922098032543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_204
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 663
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa5eafa87fd26442aca83dbc594ce18
+      internalID: 5993600892210760394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_205
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 662
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bce966585b691e48b96aec4a73a3765
+      internalID: -5545300924485755088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_206
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 663
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d7188eab9115045af3517152fb5b7c
+      internalID: -8295807306037040328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_207
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 663
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe8f53568de324583d4c91c9792cc0
+      internalID: -7853473311122274621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_208
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 662
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbcf0f82909e3a42992a94de0eb9cd7
+      internalID: -2965321241082753980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_209
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 662
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364dd058f34d08d4c99d7aeb68ace87b
+      internalID: -377358581194182356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_210
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 662
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef9f5d6646b5234fa01f7041c563caa
+      internalID: -6916337394635917310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_211
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 662
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a144a7aadb465429eeaa128ecc0672
+      internalID: -1108608527243437384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_212
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 662
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e5a4d5066555468a0c10225147710
+      internalID: 2832925529665102956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_213
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 662
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b945d66fe32a42bce51d67f552e1b
+      internalID: -7439828718001775081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_214
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 576
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaa3cc6f01056348b9c854376aff808
+      internalID: -8223013636630924265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_215
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 576
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03f21f3a88a90a439efd46a6209d3f5
+      internalID: 7565012607236937004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_216
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 576
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf45d141d64a1f748b350045bbcf13d8
+      internalID: -1143609821048009927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_217
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 576
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cffeb329f86e9944823e3e34d876529
+      internalID: -1176966967069800980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_218
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 576
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b105c12ca3b4bff4b8a7878b1bc3509f
+      internalID: -7374923396722110455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_219
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 576
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c930ba85aa08a8647974c72e77dc0eb7
+      internalID: -4794701152566065486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_220
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 576
+        width: 89
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657beff998353e84eb69a0bda7b0aa94
+      internalID: -6667593318651719839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_221
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 576
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e7ff3fb01440546a47fc186e57bad4
+      internalID: 4699845732133222814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_222
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 478
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf375a519291ab74ab96f30b13d58b88
+      internalID: -8338531982816762477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_223
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 478
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c33b392fbc4ad47be6f332d09f6db9
+      internalID: 557473318859354412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_224
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 542
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a066f202888684b859e67eccebb728
+      internalID: 8353988854447908880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_225
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 478
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45c79f191371e140abf39f01e7a1db1
+      internalID: -5066195676574581068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_226
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 383
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ec505573c8084eb108ea16353e757
+      internalID: -3118332520560253586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_227
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 386
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e23c3c65ec84418e0fe6a61342260
+      internalID: -1867849023923005998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_228
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 386
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190f037b6a7386d4cbfbc9f4f2ba6a76
+      internalID: -3698827492882091566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_229
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 386
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d01d172e02a024dbde758e16a8f623
+      internalID: -5101353155682962385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_230
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 386
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19232fe3c3101124e9fa26ab7f85ee98
+      internalID: -2618849175874042727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_231
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 384
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b520a39c6c71fa345bece9de4842e32a
+      internalID: -4101296245668550188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_232
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 383
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16a2f8c477a20a4fba5d1342c7c4a41
+      internalID: -5865433018289817305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_233
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 383
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff18f4b81082e34cb2dbee1fc019cc3
+      internalID: -9171721780031219550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_234
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 383
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50563fd764dc3f42b35b5ff7654aa05
+      internalID: 1677468191535525779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_235
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 383
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17b08e5da7115541a2454d48e1ef600
+      internalID: 995050292931554459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_236
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 383
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c60791944b62c44bcd0726627e39fc
+      internalID: -6354948685683514878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_237
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 284
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5742c495bd824439fe831d976db1dd
+      internalID: -7945003840666301720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_238
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 284
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc9cdc1017926f46aca704abe761a8c
+      internalID: 3670749886002811651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_239
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 284
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd8bf9584b176043959dd265927588c
+      internalID: 8153676363825482120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_240
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 284
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff4f0b3ea36b3e41b2f4ade12066b5a
+      internalID: -6368027314286775506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_241
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 284
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634541bb7410fc3478b28257a2169065
+      internalID: 1878121256243982749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_242
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 284
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d227cb61010145899c5202bdeffe9
+      internalID: -5856355879906186614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_243
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 283
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b03b4610f2b54092204eaa3a8dbf8
+      internalID: -2785496177375172850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_244
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 283
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fb8e41558536847aece9ac03929efe
+      internalID: 5150054999390808628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_245
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 188
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2477376ddba2eb45af6f8fe76d1f3f1
+      internalID: 3352887517131455246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_246
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 188
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6b499f428c44e4da6c1bc94a1e79d9
+      internalID: 2234634197795152407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_247
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 188
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11423c480cf32fd4292366ea0170aaab
+      internalID: 6641279674101019395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_248
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 188
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c936debd05995549a6686b25dad9135
+      internalID: 8994395301674250949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_249
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 247
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3476146a753a844ab5e3099ae257c2c
+      internalID: 276762971958705071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_250
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 237
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7457b210b471da64a8c3fedacc13967d
+      internalID: -8293550356047169981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_251
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 207
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6497016d84dde884193777285bce0a21
+      internalID: -8161289766417789320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_252
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 208
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41885ee3a4221840abc425741e9cb35
+      internalID: -2827841004837644042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_253
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 207
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a8e0a4d653874f8c2ba6283a73540
+      internalID: -7548512529057710142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_254
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 207
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5d8c7f0a2f2bf4facfeaf9fb844581
+      internalID: -5430891256425480998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_255
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 208
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1830893b4ef407944a2587a926d98b68
+      internalID: -5643799598801175657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_256
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 208
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6479674a30a484ca5d654c8ffbc624
+      internalID: -6159475358240125060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_257
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f5a035b9b86b84582c43bcef50f086
+      internalID: -2632864522957909542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_258
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 87
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d57353f096eeb48b5438c83d2422cb
+      internalID: 6791690459486815352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_259
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 87
+        width: 150
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484cc41958de09045813f725593d6f05
+      internalID: -9205650904626321694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_260
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 87
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc75e2faf0dfa419ddfb8bdb0ffcbf
+      internalID: -8579189484764546820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_261
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 87
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959278300a339824c9f4d688cbe32684
+      internalID: -5525262204977477939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_262
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 90
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c67b1d6971c4246b0ba4a53d9b452c
+      internalID: 6548864763033398786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_263
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 87
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeb2e4c7d4918548a262927aaa59a6b
+      internalID: -2008018857821213449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_264
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 87
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ca9c2479ee18b49bb9ea49945248fa
+      internalID: 1263012054986846393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_265
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 89
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f036dec3a15f9745a5631548d84678e
+      internalID: 8880016986723114226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_266
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 89
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1872a8201ba9771489296cfda9ac9063
+      internalID: 6250877617718894539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_267
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 89
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160b7be703f54b04597738bf341c9ce2
+      internalID: -4895129582153642955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_268
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9957d677e9b46d4fbd3c1967cbdaeb5
+      internalID: 1543517535191876145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_269
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 15
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a46b10b37793e447822a5f1662a6536
+      internalID: -3233592625872696189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_270
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aca1c631293a94d9df62213773e133
+      internalID: -7700610383134344009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_271
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac102e7bb2b8c1488d4ae2777c8a5f3
+      internalID: -8525234962605272607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_272
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 5
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a6b787b77fffb48806062904c8a60a
+      internalID: -6654380205676330962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_273
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 4
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f102849571c3d24d8d7d5f7f9097a06
+      internalID: 2258110064105298810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_274
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce91e0874fe983489aa3c251204d781
+      internalID: -4509755306417249608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_275
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 5
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f81fd5f8b8380a46b30d6d46a46bdfe
+      internalID: -3029377148056990547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mustapha_276
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa7bd7410f36c741ba73ed91d37f9dd
+      internalID: -8876070473359870226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d1f77a16a9b45764282c0db4418d54a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
