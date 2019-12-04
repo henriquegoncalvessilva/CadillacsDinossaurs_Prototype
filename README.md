@@ -15,6 +15,9 @@ Double click in left arrow or right arrow = run;
 
 Double click in left arrow or right arrow + R = Aereo Attack;
 
+# Video
+
+Link: https://streamable.com/w7m2t 
 
 # About me
 
