@@ -3,14 +3,14 @@ I made this prototype to practice my knowledge at Unity. If you find an error or
 
 # Commands
 
-Space - Jump;
+Space = Jump;
 
-Directional arrows - Walk;
+Directional arrows = Walk;
 
-E - Attack especial;
+E = Attack especial;
 
-R - Punch;
+R = Punch;
 
-Double click in left arrow or right arrow - run;
+Double click in left arrow or right arrow = run;
 
-Double click in left arrow or right arrow + R - Aereo Attack;
+Double click in left arrow or right arrow + R = Aereo Attack;
